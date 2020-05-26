@@ -1,5 +1,14 @@
+.header {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 1em;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+  background: #fff;
+  letter-spacing: 0.05em;
+}
 .noob-btn {
-    display: inline-block;
+  display: inline-block;
   line-height: normal;
   white-space: nowrap;
   vertical-align: middle;
