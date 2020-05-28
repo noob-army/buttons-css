@@ -40,3 +40,8 @@
   box-shadow: none;
   pointer-events: none;
 }
+
+.noob-btn-primary {
+  background-color: #0078e7;
+  color: #fff;
+}
