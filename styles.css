@@ -31,3 +31,12 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+.noob-btn-disabled {
+  border: none;
+  background-image: none;
+  opacity: 0.4;
+  cursor: not-allowed;
+  box-shadow: none;
+  pointer-events: none;
+}
