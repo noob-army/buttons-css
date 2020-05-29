@@ -9,11 +9,11 @@
 }
 
 .content {
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 1em;
-    padding-right: 1em;
-    max-width: 768px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+  max-width: 768px;
 }
 
 .noob-btn {
@@ -47,22 +47,22 @@
 }
 
 .noob-btn-secondary {
-  background-color: #BA55D3	;
+  background-color: #ba55d3;
   color: #fff;
 }
 
 .noob-btn-success {
-  background-color: #228B22;
+  background-color: #228b22;
   color: #fff;
 }
 
 .noob-btn-error {
-  background-color: #FF0000;
+  background-color: #ff0000;
   color: #fff;
 }
 
 .noob-btn-warning {
-  background-color: #FFFF00;
+  background-color: #ffff00;
   color: #000;
 }
 
@@ -96,4 +96,12 @@
 
 .noob-btn-xl {
   font-size: 150%;
+}
+
+pre {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #000;
+  background: #f8f8ff;
 }
